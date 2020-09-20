@@ -47,13 +47,16 @@
 %  clear that the execution pipeline must visit the plugin.
 %
 %  Author: Sai Li
-%  Email: sai@tsinghua.edu.cn
+%  Email: sai @ tsinghua.edu.cn
 %  Address: School of Life Science, Tsinghua University
+%  https://www.lisailab.com
 %
+%  Copyright (c) 2020
 %
 %  Citation: if you found this function useful for your research, please
 %  cite the following paper to ackownlege the author:
-%  "A molecular-level account of the antigenic hantaviral surface", Cell Reports 15 (5), 959-967, 2016
+%  "Molecular architecture of the SARS-CoV-2 virus", Cell, 2020
+%  DOI: 10.1016/j.cell.2020.09.018
 
  
 function dynamo_plugin_post_gold_standard_sai(file_card,input_string)
